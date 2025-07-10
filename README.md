@@ -18,12 +18,20 @@ Simple Interest = (P × R × T) / 100
 ## ▶️ How to Run
 1. Open the terminal or command prompt.
 2. Run the Python file:
-```bash
-python simple_interest.py
 
+python simple_interest.py
+```bash
 ✅ Sample Output:
 
 Enter Principal Amount (₹): 1000
 Enter Interest Rate (%): 5
 Enter Time (years): 2
 Simple Interest = ₹100.00
+
+
+## 📦 Download on Gumroad
+
+📊 Calculate simple interest quickly using this beginner-friendly Python script:  
+👉 [Simple Interest Calculator (Python Script) – Download on Gumroad]()
+
+🔗 Gumroad Profile: [kanishkar8.gumroad.com](https://kanishkar8.gumroad.com)
